@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <p align="center">
   <a href="https://www.linkedin.com/in/terrytangyuan"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+</p>
+<p align="center">
   ![Visitor Count](https://profile-counter.glitch.me/Vitor-Dubiela/count.svg)
 </p>
 
