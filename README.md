@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <div align="center">
-  <a href="linkedin.com/in/vitor-hugo-santos-dubiela-7b04b2190"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/vitor-hugo-santos-dubiela-7b04b2190/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
 </div>
 
 <div align="center">
