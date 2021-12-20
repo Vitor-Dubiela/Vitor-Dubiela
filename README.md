@@ -1,3 +1,4 @@
+![Visitor Count](https://profile-counter.glitch.me/Vitor-Dubiela/count.svg)
 ### Hi there 👋
 
 **Vitor-Dubiela/Vitor-Dubiela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,11 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<p align="center">
-  <a href="https://www.linkedin.com/in/terrytangyuan"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
-</p>
 
-![Visitor Count](https://profile-counter.glitch.me/Vitor-Dubiela/count.svg)
+<div align="center">
+  <a href="linkedin.com/in/vitor-hugo-santos-dubiela-7b04b2190"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+</div>
 
 <div align="center">
   <a href="https://github.com/JVmano">
