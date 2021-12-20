@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/vitor-hugo-santos-dubiela-7b04b2190/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
-</div>
+</p>
 
 <div align="center">
   <a href="https://github.com/JVmano">
