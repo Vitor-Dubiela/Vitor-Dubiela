@@ -3,7 +3,7 @@
 
 # About ME 💬 :
 
-<img hight="350" width="300" alt="GIF" align="right" src="./imgs/kanedaGif.gif">
+<img hight="340" width="280" alt="GIF" align="right" src="./imgs/kanedaGif.gif">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
