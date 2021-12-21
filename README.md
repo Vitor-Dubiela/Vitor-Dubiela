@@ -1,7 +1,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/Vitor-Dubiela/count.svg)
-## Wassup?! I'm Vitor Dubiela 👋
+# Wassup?! I'm Vitor Dubiela 👋
 
-# About ME 💬 :
+## About ME 💬 :
 
 <img hight="340" width="280" alt="GIF" align="right" src="./imgs/kanedaGif.gif">
 
