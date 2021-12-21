@@ -1,9 +1,9 @@
 ![Visitor Count](https://profile-counter.glitch.me/Vitor-Dubiela/count.svg)
 ### Wassup 👋
 
-<img hight="400" width="500" alt="GIF" align="right" src="./imgs/kayn.jpg">
-
 # About ME 💬 :
+
+<img hight="400" width="500" alt="GIF" align="right" src="./imgs/kayn.jpg">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
