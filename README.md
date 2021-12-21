@@ -3,7 +3,7 @@
 
 ## About ME 💬 :
 
-<img hight="300" width="200" alt="GIF" align="right" src="./imgs/kanedaGif.gif">
+<img hight="340" width="280" alt="GIF" align="right" src="./imgs/kanedaGif.gif">
 
 - 🔭 I’m currently working on [BNE](https://www.bne.com.br)
 - 🌱 I’m currently learning ...
@@ -20,6 +20,8 @@
 <a target="_blank" href="mailto:vitorhugo.dubiela@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 </p>
 
+<br>
+<br>
 <br>
 <br>
 <br>
