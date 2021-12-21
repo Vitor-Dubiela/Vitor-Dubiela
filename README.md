@@ -1,9 +1,9 @@
 ![Visitor Count](https://profile-counter.glitch.me/Vitor-Dubiela/count.svg)
-### Hi there 👋
+### Wassup 👋
 
-**Vitor-Dubiela/Vitor-Dubiela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img hight="400" width="500" alt="GIF" align="right" src="./imgs/kayn.jpg">
 
-Here are some ideas to get you started:
+# About ME 💬 :
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vitor-hugo-santos-dubiela-7b04b2190/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/vitor-hugo-santos-dubiela-7b04b2190"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:vitorhugo.dubiela@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 </p>
 
 <div align="center">
-  <a href="https://github.com/JVmano">
+  <a href="https://github.com/Vitor-Dubiela">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitor-Dubiela&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Dubiela&layout=compact&langs_count=7&theme=dracula"/>
 </div>
