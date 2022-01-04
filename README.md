@@ -6,10 +6,9 @@
 <img hight="340" width="280" alt="GIF" align="right" src="./imgs/kanedaGif.gif">
 
 - 🔭 I’m currently working on [BNE](https://www.bne.com.br)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🌱 I’m currently learning DB analysis, backend and frontend dev. 
+- 👯 I’m looking to collaborate on new projects like websites, APIs or other softwares.
+- 📫 How to reach me: vitorhugo.dubiela@gmail.com.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: sometimes Rhaast, sometimes Blue Kayn :flushed:
 
