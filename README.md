@@ -6,7 +6,7 @@
 <img hight="300" width="250" alt="GIF" align="right" src="./imgs/kanedaGif.gif">
 
 - 🔭 I’m currently working on [BNE](https://www.bne.com.br)
-- 🌱 I’m currently learning DB analysis, backend and frontend dev. 
+- 🌱 I’m currently learning .NET. 
 - 👯 I’m looking to collaborate on new projects like websites, APIs or other softwares.
 - 📫 How to reach me: vitorhugo.dubiela@gmail.com.
 - 😄 Pronouns: he/him
