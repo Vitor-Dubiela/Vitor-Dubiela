@@ -6,7 +6,7 @@
 
 ## About ME 💬 :
 
-<img hight="300" width="250" alt="GIF" align="right" src="./imgs/dr-stone-senku.gif">
+<img hight="500" width="400" alt="GIF" align="right" src="./imgs/dr-stone-senku.gif">
 
 - 🔭 I’m currently working on [BNE](https://www.bne.com.br)
 - 🌱 I’m currently learning .NET. 
