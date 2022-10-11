@@ -1,8 +1,7 @@
-![Visitor Count](https://profile-counter.glitch.me/Vitor-Dubiela/count.svg)
-# Wassup?! I'm Vitor Dubiela 👋
+# Hi! I'm Vitor Dubiela 👋
 
 <p align="left">
-  &emsp;I'm a young dev, got into Systems Analysis and Development 2 years ago and that's how I discovered I liked programming. Not only programming, but I also like Biology and look to someday be workin with Bioinformatics. Untill it happens, I'll be working on new projects and apps to improve myself :wink:
+  &emsp;I'm a young dev, got into Systems Analysis and Development 2 years ago and there I found out I liked programming. :wink:
 </p>
 
 ## About ME 💬 :
