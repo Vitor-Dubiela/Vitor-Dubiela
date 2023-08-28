@@ -1,7 +1,7 @@
 # Hi! I'm Vitor Dubiela 👋
 
 <p align="left">
-  &emsp;I'm a young dev, got into Systems Analysis and Development 2 years ago and there I found out I liked programming. :wink:
+  &emsp;I'm a young Dev, that is enjoying the opportunities of this journey as a developer to learn about themes and technologies I like. :wink:
 </p>
 
 ## About ME 💬 :
