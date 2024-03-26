@@ -10,10 +10,8 @@
 
 - 🔭 I’m currently working on [BNE](https://www.bne.com.br)
 - 🌱 I’m currently learning .NET and Nextjs
-- 👯 I'm looking to work on projects that wanna have a great impact
 - 📫 How to reach me: vitorhugo.dubiela@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I don't like tea, I prefer coffee :flushed:
 
 <br>
 
@@ -29,6 +27,6 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/Vitor-Dubiela">
+  <a href="https://github.com/Vitor-Dubiela?tab=repositories">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Dubiela&layout=compact&langs_count=7&theme=dracula"/>
 </div>
