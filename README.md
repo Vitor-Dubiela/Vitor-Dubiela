@@ -1,7 +1,7 @@
 # Hi! I'm Vitor Dubiela 👋
 
 <p align="left">
-  &emsp;I'm a Backend Developer at Banco Nacional de Empregos, collaborating in the maintenance and development of applications. I'm currently working with C# and Azure Services, accumulating 2 years of experience. :wink:
+  &emsp;I'm a Software Developer at Banco Nacional de Empregos, collaborating in the maintenance and development of applications. I'm currently working with C# and Azure Services, accumulating 2 years of experience. :wink:
 </p>
 
 ## About ME 💬 :
