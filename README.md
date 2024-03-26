@@ -1,7 +1,7 @@
 # Hi! I'm Vitor Dubiela 👋
 
 <p align="left">
-  &emsp;I'm a young Dev, that is enjoying the opportunities of this journey as a developer to learn about themes and technologies I like. :wink:
+  &emsp;I'm a Backend Developer at Banco Nacional de Empregos, collaborating in the maintenance and development of applications. I'm currently working with C# and Azure Services, accumulating 2 years of experience. :wink:
 </p>
 
 ## About ME 💬 :
@@ -9,11 +9,11 @@
 <img hight="400" width="300" alt="GIF" align="right" src="./imgs/dr-stone-senku.gif">
 
 - 🔭 I’m currently working on [BNE](https://www.bne.com.br)
-- 🌱 I’m currently learning .NET. 
-- 👯 I’m looking to collaborate on new projects like websites, APIs or other softwares.
-- 📫 How to reach me: vitorhugo.dubiela@gmail.com.
+- 🌱 I’m currently learning .NET and Nextjs
+- 👯 I'm looking to work on projects that wanna have a great impact
+- 📫 How to reach me: vitorhugo.dubiela@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: sometimes Rhaast, sometimes Blue Kayn :flushed:
+- ⚡ Fun fact: I don't like tea, I prefer coffee :flushed:
 
 <br>
 
@@ -30,6 +30,5 @@
 
 <div align="center">
   <a href="https://github.com/Vitor-Dubiela">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitor-Dubiela&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Dubiela&layout=compact&langs_count=7&theme=dracula"/>
 </div>
