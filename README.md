@@ -1,17 +1,16 @@
 # Hi! I'm Vitor Dubiela 👋
 
 <p align="left">
-  &emsp;I'm a Software Developer at Banco Nacional de Empregos, collaborating in the maintenance and development of applications. I'm currently working with C# and Azure Services, accumulating 2 years of experience. :wink:
+  &emsp;I'm a Software Engineer at 360dialog, collaborating in the design and development of applications. I'm currently working with Next.js (TS) :wink:
 </p>
 
 ## About ME 💬 :
 
 <img hight="400" width="300" alt="GIF" align="right" src="./imgs/dr-stone-senku.gif">
 
-- 🔭 I’m currently working on [BNE](https://www.bne.com.br)
+- 🔭 I’m currently working on [360dialog](https://www.360dialog.com/)
 - 🌱 I’m currently learning .NET and Nextjs
 - 📫 How to reach me: vitorhugo.dubiela@gmail.com
-- 😄 Pronouns: he/him
 
 <br>
 
