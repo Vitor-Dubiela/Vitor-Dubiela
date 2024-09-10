@@ -1,7 +1,7 @@
 # Hi! I'm Vitor Dubiela 👋
 
 <p align="left">
-  &emsp;I'm a Software Engineer at 360dialog, collaborating in the design and development of applications. I'm currently working with Next.js (TS) :wink:
+  &emsp;I'm a Software Engineer at 360dialog, collaborating in the design and development of applications. I'm currently working with Next.js (TS)
 </p>
 
 ## About ME 💬 :
