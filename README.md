@@ -1,10 +1,9 @@
 # Hi! I'm Vitor Dubiela 👋
 
 <p align="left">
-  &emsp;I'm a Software Engineer at 360dialog
+  &emsp;I'm currently working on a first-person 3D browser game.
 </p>
 
-- 🔭 [360dialog](https://www.360dialog.com/)
 - 📫 vitorhugo.dubiela@gmail.com
 
 <br>
