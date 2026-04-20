@@ -1,11 +1,10 @@
-# Hi! I'm Vitor Dubiela 👋
+# Hi! You can call me Fu 👋
 
 <p align="left">
   &emsp;I'm currently working on a first-person 3D browser game.
 </p>
 
-- 📫 vitorhugo.dubiela@gmail.com
-
+<br>
 <br>
 
 <p align="center">
