@@ -1,7 +1,7 @@
 # Hi! You can call me Fu 👋
 
 <p align="left">
-  &emsp;I'm currently working on a first-person 3D browser game.
+  &emsp;I'm solving Brazilian issues.
 </p>
 
 <br>
